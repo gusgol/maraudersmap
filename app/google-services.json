@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "136019533554",
+    "firebase_url": "https://maraudersmap-b7ea8.firebaseio.com",
+    "project_id": "maraudersmap-b7ea8",
+    "storage_bucket": "maraudersmap-b7ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136019533554:android:b9f985d0daa1994d",
+        "android_client_info": {
+          "package_name": "com.monstershore.maraudersmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136019533554-tfei5h5oth87m9tnsleeq8i8uvpmqtja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhe67-f-JznNJKjg_b2EWdLO27kvXt9DQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

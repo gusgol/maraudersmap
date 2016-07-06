@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Marauders Map</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="lbl_register">Don\'t have an account?</string>
+    <string name="action_register">Register!</string>
+    <string name="create_account">Create New Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
